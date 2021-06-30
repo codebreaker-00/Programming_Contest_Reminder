@@ -1,0 +1,53 @@
+th, td {
+    text-align: center;
+    color: whitesmoke;
+    width: max-content;
+    padding: 1px 
+  }  
+
+tr{
+  border: 2px solid white;
+  padding: 5px;
+}  
+  
+th{
+  font-size: large;
+  background-color:#473e3e;
+  width: 30px;
+}  
+
+body {
+    background-color: rgba(0, 0, 0, 0.849) !important;
+    color: blanchedalmond;
+          min-width:350px;
+  
+}
+
+table{
+  width: 100%;
+  text-align: center;
+}
+
+  a:link {
+    color: whitesmoke;
+    text-decoration: none !important;
+  }
+
+  a:hover{
+    color: whitesmoke !important;
+  }
+
+  img{
+    background-color: white;
+  }
+
+  tr:hover {
+    background-color:#473e3e;
+  }
+
+  /* visited link */
+  a:visited {
+    color: whitesmoke !important;
+    text-decoration: none;
+  }
+  
