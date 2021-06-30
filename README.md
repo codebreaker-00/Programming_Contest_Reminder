@@ -13,4 +13,6 @@ This extension would provide information about the following Sites
 </ul>
 <br>
 Here is an attached ScreenShot of The Extension Created. <br>
+<br>
+<br>
 <img src="contest_reminder/public/assets/extension.png">
